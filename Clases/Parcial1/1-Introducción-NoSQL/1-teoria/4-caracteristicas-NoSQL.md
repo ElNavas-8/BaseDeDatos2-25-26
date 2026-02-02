@@ -12,7 +12,9 @@ Las bases de datos relacionales se apoyan en ACID, un conjunto de propiedades qu
 - **D**urability: Durabilidad garantiza que los cambios persistan incluso ante fallos del sistema.
 
 ✔ Seguridad
+
 ✔ Transacciones fuertes
+
 ❌ Menor flexibilidad y escalabilidad
 
 ### BASE (NoSQL)
@@ -22,7 +24,9 @@ Las bases de datos relacionales se apoyan en ACID, un conjunto de propiedades qu
 - **E**ventual consistency: Busca alcanzar la consistencia eventual
 
 ✔ Alta disponibilidad
+
 ✔ Escalabilidad
+
 ❌ Consistencia inmediata no garantizada
 
 ### Teorema CAP

@@ -5,4 +5,5 @@
 3. [Origen  de NoSQL.](3-origen-NoSQL.md)
 4. [Características de NoSQL.](4-caracteristicas-NoSQL.md)
 5. [Cuando si y cuando no usar NoSQL.](5-cuando-si-no.md)
+6. [Conclusión.](6-conclusion.md)
 

@@ -23,6 +23,4 @@ Por ello, no fueron diseñadas originalmente para afrontar escenarios como:
 - Millones de escrituras por segundo.
 - Datos semiestructurados o cambiantes.
 - Infraestructura distribuida.
-  
-  *(Diagrama CAP en Mermaid → PNG)*
 

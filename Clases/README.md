@@ -5,7 +5,7 @@
   - [ ] Introducción a NoSQL
     
     - [x] [Teoría y repaso](Parcial1/1-Introducción-NoSQL/1-teoria)
-    - [ ] Tipos de NoSQL
+    - [x] [Tipos de NoSQL](Parcial1/1-Introducción-NoSQL/2-tipos-nosql)
     - [ ] Taller guiado de Elección de BD según problemas
     - [ ] Práctica con GitHub (evaluación contínua)
   - [ ] BD Documentales (MongoDB)
